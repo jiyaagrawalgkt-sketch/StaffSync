@@ -1,6 +1,6 @@
 # StaffSync: Modern HR Management System (MERN)
 
-Built by Jiya Agrawal | [GitHub](https://github.com/jiyaagrawalgkt-sketch) | [LinkedIn](www.linkedin.com/in/jiya-agrawal-055bba32a)
+Built by Jiya Agrawal | [GitHub](https://github.com/jiyaagrawalgkt-sketch) | [LinkedIn](https://www.linkedin.com/in/jiya-agrawal-055bba32a/)
 
 StaffSync digitises everyday HR work for three roles:
 
