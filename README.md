@@ -113,3 +113,6 @@ staffsync/
 - Night shifts that cross midnight are not supported (a workday is a local calendar date).
 - Concurrency: attendance, enrollment and approvals use atomic DB operations; overlapping-leave checks are not atomic (see ARCHITECTURE.md).
 - See docs/SECURITY.md before using real employee data.
+=======
+# StaffSync
+>>>>>>> 8595d37b5546b4c3e105986579ec9c65e9965c7c
