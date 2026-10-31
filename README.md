@@ -1,6 +1,6 @@
 # StaffSync: Modern HR Management System (MERN)
 
-Built by Jiya Agrawal | [GitHub](https://github.com/jiyaagrawalgkt-sketch) | [LinkedIn](https://www.linkedin.com/in/jiya-agrawal-055bba32a/)
+Built by Jiya Agrawal | [GitHub](https://github.com/jiyaagrawalgkt-sketch) | [LinkedIn](https://www.linkedin.com/in/jiya-agrawal-055bba32a)
 
 StaffSync digitises everyday HR work for three roles:
 
@@ -114,5 +114,3 @@ staffsync/
 - Concurrency: attendance, enrollment and approvals use atomic DB operations; overlapping-leave checks are not atomic (see ARCHITECTURE.md).
 - See docs/SECURITY.md before using real employee data.
 =======
-# StaffSync
->>>>>>> 8595d37b5546b4c3e105986579ec9c65e9965c7c
